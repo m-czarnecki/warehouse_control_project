@@ -1,0 +1,5 @@
+type;name;category;extra care;quantity/amount;id
+SP;butter;food;true;120;0
+SP;knife;kitchen equipment;false;200;1
+SP;frying pan;kitchen equipment;false;330;2
+WP;flour;food;false;560.55;3
